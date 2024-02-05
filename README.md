@@ -2,9 +2,9 @@
 This is a simple user authentication program that allows users to register and login using a username and password. The program stores user information in a text file called "users.txt".
 Dependencies
 This program requires the following standard C++ libraries:
-    -  iostream 
-    -  fstream 
-    -  string 
+- iostream 
+- fstream 
+- string 
 # Usage
 To use this program, compile the source code using your preferred C++ compiler. Then, run the compiled executable.
 When you run the program, you will be presented with a menu that allows you to choose between registering a new user, logging in as an existing user, or quitting the program.
